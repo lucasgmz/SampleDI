@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SampleIOC.Services/1.0.0": {
+        "dependencies": {
+          "SampleIOC.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SampleIOC.Services.dll": {}
+        }
+      },
+      "SampleIOC.Domain/1.0.0": {
+        "runtime": {
+          "SampleIOC.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SampleIOC.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SampleIOC.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

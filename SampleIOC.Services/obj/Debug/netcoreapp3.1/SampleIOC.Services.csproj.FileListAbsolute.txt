@@ -1,0 +1,12 @@
+C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Services\bin\Debug\netcoreapp3.1\SampleIOC.Services.deps.json
+C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Services\bin\Debug\netcoreapp3.1\SampleIOC.Services.dll
+C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Services\bin\Debug\netcoreapp3.1\SampleIOC.Services.pdb
+C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Services\bin\Debug\netcoreapp3.1\SampleIOC.Domain.dll
+C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Services\bin\Debug\netcoreapp3.1\SampleIOC.Domain.pdb
+C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Services\obj\Debug\netcoreapp3.1\SampleIOC.Services.csprojAssemblyReference.cache
+C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Services\obj\Debug\netcoreapp3.1\SampleIOC.Services.AssemblyInfoInputs.cache
+C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Services\obj\Debug\netcoreapp3.1\SampleIOC.Services.AssemblyInfo.cs
+C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Services\obj\Debug\netcoreapp3.1\SampleIOC.Services.csproj.CoreCompileInputs.cache
+C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Services\obj\Debug\netcoreapp3.1\SampleIOC.Services.csproj.CopyComplete
+C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Services\obj\Debug\netcoreapp3.1\SampleIOC.Services.dll
+C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Services\obj\Debug\netcoreapp3.1\SampleIOC.Services.pdb
