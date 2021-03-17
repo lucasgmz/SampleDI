@@ -30,6 +30,7 @@ namespace SampleIOC.WebApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
             services.AddScoped<ILoggerService, LoggerService>();
             services.AddScoped<IMathUtilsService, MathUtilsService>();
         }
