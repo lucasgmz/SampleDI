@@ -1,9 +1,0 @@
-C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Domain\bin\Debug\netcoreapp3.1\SampleIOC.Domain.deps.json
-C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Domain\bin\Debug\netcoreapp3.1\SampleIOC.Domain.dll
-C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Domain\bin\Debug\netcoreapp3.1\SampleIOC.Domain.pdb
-C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Domain\obj\Debug\netcoreapp3.1\SampleIOC.Domain.csprojAssemblyReference.cache
-C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Domain\obj\Debug\netcoreapp3.1\SampleIOC.Domain.AssemblyInfoInputs.cache
-C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Domain\obj\Debug\netcoreapp3.1\SampleIOC.Domain.AssemblyInfo.cs
-C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Domain\obj\Debug\netcoreapp3.1\SampleIOC.Domain.csproj.CoreCompileInputs.cache
-C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Domain\obj\Debug\netcoreapp3.1\SampleIOC.Domain.dll
-C:\Users\LucasCarvalho\source\repos\SampleIOC\SampleIOC.Domain\obj\Debug\netcoreapp3.1\SampleIOC.Domain.pdb
