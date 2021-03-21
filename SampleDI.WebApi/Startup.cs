@@ -1,11 +1,12 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
 using SampleDI.WebApi;
-
+using System;
 
 namespace SampleDI.WebApi
 {
@@ -45,6 +46,15 @@ namespace SampleDI.WebApi
             app.UseRouting();
 
             app.UseAuthorization();
+
+            // Map route example
+            app.Map("/today", a => a.Run(async context =>
+            {
+                await context.Response.WriteAsync("Today is: " + DateTime.Now.ToString());
+            }));
+
+            // Save the timestamp to execute the next item on pipeline.
+            app.AddMiddlewares();
 
             app.UseEndpoints(endpoints =>
             {
