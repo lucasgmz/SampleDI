@@ -47,11 +47,7 @@ namespace SampleDI.WebApi
 
             app.UseAuthorization();
 
-            // Map route example
-            app.Map("/today", a => a.Run(async context =>
-            {
-                await context.Response.WriteAsync("Today is: " + DateTime.Now.ToString());
-            }));
+            app.AddMappings();
 
             // Save the timestamp to execute the next item on pipeline.
             app.AddMiddlewares();
